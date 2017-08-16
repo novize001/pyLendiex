@@ -20,6 +20,7 @@ You also need the Python API Poloniex bindings from s4w3d0ff. You can find a ins
 ```
 python pyLendiex.py myPoloniexAPI myPoloniexSecret
 ```
+You can find a further installation manual for Ubuntu, Debian and Raspbian here: http://www.mybitcoin.space/2017/08/pylendiex-v01-released.html
 
 # Thanks
 Shout out to the fantastic Poloniex API bindings, written by s4w3d0ff!
